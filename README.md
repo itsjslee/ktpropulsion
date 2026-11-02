@@ -1,4 +1,4 @@
-# KTPropulsion avionics carrier PCB
+# ktpropulsion
 
 KiCad 10 project for a Teensy 4.1, BMP180 module, and MPU6050 module with onboard logging.
 
