@@ -1,0 +1,1 @@
+Body updated at user request to 10 mm perpendicular to header x 13 mm along header. Header pitch/pad numbering unchanged. Assumed header centerline 1.5 mm from edge and centered along 13 mm side. Body extends local +X; at 180 degree footprint rotation this is leftward. Existing library footprint name retained to preserve links.

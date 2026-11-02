@@ -1,0 +1,15 @@
+# Operating-system files
+.DS_Store
+# KiCad local state, locks and automatic backups
+.history/
+*-backups/
+_autosave-*
+fp-info-cache
+~*.lck
+*.kicad_prl
+*.bak
+# Working experiments and generated manufacturing/check outputs
+routing_trial/
+gerbers/
+*.before_terminal_routing.*
+terminal_routing_drc.json
